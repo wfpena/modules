@@ -1,0 +1,1 @@
+from .alerta import ExampleModel
